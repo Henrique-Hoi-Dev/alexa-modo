@@ -1,0 +1,11 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Henrique-Hoi-Dev/alexa-modo.git",
+  "author": "henrique",
+  "license": "MIT",
+  "dependencies": {
+    "wol": "^1.0.7"
+  }
+}
